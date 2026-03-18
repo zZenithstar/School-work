@@ -7,3 +7,4 @@ analyzes them. Data entry will end when the user types FINISH.
 
 I use the JAVA version 1.8(8).
 
+The description lines are in Turkish because this was for my school :D
